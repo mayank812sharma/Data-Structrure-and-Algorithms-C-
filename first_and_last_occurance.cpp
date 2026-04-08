@@ -57,7 +57,7 @@ int last_occurence(int arr[], int n, int key)
 int main()
 {
   int n;
-  cout << "Enter The size of the array -> ";
+  cout << "Enter The length of the array -> ";
   cin >> n;
 
   int arr[1000];
